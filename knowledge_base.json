@@ -1,0 +1,6 @@
+[
+  {"id":"svc-ai-automation","service":"AI Automation","title":"AI automation discovery","content":"Cynbit designs autonomous AI agents, LLM automation, document handling and SaaS integrations. A useful discovery call confirms the repetitive workflow, source systems, volume, human approvals, security constraints and measurable business outcome."},
+  {"id":"svc-software","service":"Custom Software","title":"Custom software discovery","content":"Cynbit builds scalable web and mobile platforms, backend systems and legacy migrations. Scope should establish target users, critical user journeys, integrations, uptime expectations, data sensitivity and delivery milestones."},
+  {"id":"svc-cloud","service":"Cloud Infrastructure","title":"Cloud discovery","content":"Cynbit supports AWS and Azure cloud foundations. Establish current architecture, workload criticality, reliability target, compliance requirements, migration constraints and operating ownership."},
+  {"id":"svc-growth","service":"Growth & SEO","title":"Growth discovery","content":"Cynbit provides technical SEO, performance marketing, CRM automation and funnel optimization. Establish target audience, baseline traffic or leads, conversion event, channels, budget and measurement window."}
+]
